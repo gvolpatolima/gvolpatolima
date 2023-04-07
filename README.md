@@ -13,5 +13,5 @@
 
 ### 🧰 Languages and tools
 
-<img align="left" alt="Java" width="30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+<img align="left" alt="Java" width="30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
