@@ -31,13 +31,13 @@
 <img align="left" alt="TF" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Fedora" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
 
---- 
+#
 
 ### 📊 Stats
 
 ![Volpato's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvolpatolima&show_icons=true&theme=gruvbox)
 
-
+# 
 <details>
- <summary><h3>👨‍💻 Volpato's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Personal coding journey</h3></summary>
   I started coding as a young 12-year-old learning from books at the local university. I wanted to learn it all and would spend hours in the library. I had a great hiatus due to not being able to get past some of the harder languages like C. Then I had a great breakthrough around 14 years old when I first started using Linux. I downloaded the Arch ISO and had many problems in my first installation, but then I got the hang of it and started experimenting on computers I built from the electronic trash I found. That’s when I learned all the server-related tools like Nginx, Docker and SSH. It was a great time and I had lots of fun. At around 15, I started taking programming more seriously, doing courses I could afford by private tutoring math and expanding my horizons and setting goals. Now I think I’m ready for the job market and I’m eager to learn more and more.
