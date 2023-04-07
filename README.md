@@ -10,6 +10,8 @@
 ![apartamento-qualquer-banner-banner](https://user-images.githubusercontent.com/130118116/230592000-b522b1bd-61ca-46c2-8c81-cfc63d2302a6.gif)
 
 ---
-🧰 Languages and tools
 
+### 🧰 Languages and tools
+
+<img align="left" alt="Java" width="30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
 
