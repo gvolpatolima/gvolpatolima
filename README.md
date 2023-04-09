@@ -13,7 +13,9 @@
   <a href="https://twitter.com/gvolpatolima" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
 </div align="center">
-###
+
+‎‎‎‎‎‎‎          
+‎‎‎‎‎‎‎          
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Volpato%2C+Welcome+to+my+Github+page.)
 
