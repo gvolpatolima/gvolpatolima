@@ -48,6 +48,7 @@
 ### 📊 Stats
 
 ![Volpato's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvolpatolima&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gvolpatolima01&theme=react)
 
 # 
 <details>
