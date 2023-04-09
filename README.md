@@ -14,9 +14,9 @@
   
 </div align="center">
 ###
-<div>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Volpato%2C+Welcome+to+my+Github+page.)
-</div>
+
 ---
 
 ![saturn2](https://user-images.githubusercontent.com/130118116/230798429-e642b59b-9e2f-4109-b472-f7bd5026eb94.png)
