@@ -6,6 +6,15 @@
 > Hi, I’m a 16-year-old student who is passionate about deep learning and data science. I have a strong will and desire to learn, I love to study and I value people with good ambitions. I am looking to expand my group of people and connect with people in the field. I would like to share my projects and learn from others on GitHub. Some of the topics I’m interested in are natural language processing, RNNs and Autoencoders. I’m always eager to learn new skills and tools to improve my knowledge and abilities. Feel free to check out my repositories and connect with me!
 
 ---
+<div> 
+  <a href = "mailto:gvolpato.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-volpato-458705271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+---
+
+
 
 ![saturn2](https://user-images.githubusercontent.com/130118116/230798429-e642b59b-9e2f-4109-b472-f7bd5026eb94.png)
 
