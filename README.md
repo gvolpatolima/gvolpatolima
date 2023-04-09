@@ -7,7 +7,7 @@
 
 ---
 
-![apartamento-qualquer-banner-banner](https://user-images.githubusercontent.com/130118116/230592000-b522b1bd-61ca-46c2-8c81-cfc63d2302a6.gif)
+![saturn2](https://user-images.githubusercontent.com/130118116/230798398-081eb604-bcfb-4a42-8e7b-03b9c32f917e.png)
 
 ---
 
