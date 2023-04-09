@@ -12,10 +12,11 @@
   <a href="https://www.linkedin.com/in/gabriel-volpato-458705271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/gvolpatolima" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
-</div>
-
+</div align="center">
+###
+<div>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Volpato%2C+Welcome+to+my+Github+page.)
-
+</div>
 ---
 
 ![saturn2](https://user-images.githubusercontent.com/130118116/230798429-e642b59b-9e2f-4109-b472-f7bd5026eb94.png)
