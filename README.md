@@ -51,7 +51,9 @@
 ### 📊 Stats
 
 ![Volpato's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvolpatolima&show_icons=true&theme=gruvbox)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gvolpatolima&show_icons=true&locale=en&layout=compact" alt="pgs17" /></p>
+
+![Language percentage](https://github-readme-stats.vercel.app/api/top-langs?username=gvolpatolima&show_icons=true&locale=en&layout=compact)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gvolpatolima&theme=react)
 
 # 
