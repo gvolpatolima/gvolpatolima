@@ -27,22 +27,30 @@
 
 ### 🧰 My languages and tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="NGINX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Ssh" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
-<img align="left" alt="TF" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Fedora" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />‎‎‎‎‎‎‎          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,css,django,docker,flask,python,linux"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bots,discord,github,git,latex,nginx,pytorch,tensorflow"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,jquery,kubernetes,linkedin,lua,md,neovim"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,r,replit,stackoverflow,twitter,vim,vscode,atom"/>
+  </a>
+</p>
+
 
 
 #
@@ -50,13 +58,14 @@
 
 ### 📊 Stats
 
-![Volpato's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvolpatolima&show_icons=true&theme=gruvbox)
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=gvolpatolima&show_icons=true&locale=en&layout=compact"/>
+    </a>
+</p>
 
-![Language percentage](https://github-readme-stats.vercel.app/api/top-langs?username=gvolpatolima&show_icons=true&locale=en&layout=compact)
+#
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gvolpatolima&theme=react)
-
-# 
 <details>
  <summary><h3>👨‍💻 Personal coding journey</h3></summary>
   I started coding as a young 12-year-old learning from books at the local university. I wanted to learn it all and would spend hours in the library. I had a great hiatus due to not being able to get past some of the harder languages like C. Then I had a great breakthrough around 14 years old when I first started using Linux. I downloaded the Arch ISO and had many problems in my first installation, but then I got the hang of it and started experimenting on computers I built from the electronic trash I found. That’s when I learned all the server-related tools like Nginx, Docker and SSH. It was a great time and I had lots of fun. At around 15, I started taking programming more seriously, doing courses I could afford by private tutoring math and expanding my horizons and setting goals. Now I think I’m ready for the job market and I’m eager to learn more and more.
