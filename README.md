@@ -60,7 +60,7 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=gvolpatolima&show_icons=true&locale=en&layout=compact"/>
+        <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=gvolpatolima&show_icons=true&locale=en&layout=compact&theme=dark&lang_count=6"/>
     </a>
 </p>
 
