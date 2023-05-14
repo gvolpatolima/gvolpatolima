@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bots,discord,github,git,latex,nginx,pytorch,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=bots,discord,github,git,latex,nginx,pytorch,tensorflow,c,cpp"/>
   </a>
 </p>
 
