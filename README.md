@@ -64,12 +64,10 @@
     </a>
 </p>
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com">
-    <img src=" https://streak-stats.demolab.com?user=gvolpatolima&theme=dark&hide_border=true" />
-  </a>
+<p style="text-align: center;">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=gvolpatolima&theme=radical&hide_border=true)](https://git.io/streak-stats)
  </p>
-#
+
 
 <details>
  <summary><h3>👨‍💻 Personal coding journey</h3></summary>
