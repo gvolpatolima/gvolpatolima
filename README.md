@@ -64,9 +64,8 @@
     </a>
 </p>
 
-<p style="text-align: center;">
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=gvolpatolima&theme=radical&hide_border=true)](https://git.io/streak-stats)
- </p>
 
 
 <details>
