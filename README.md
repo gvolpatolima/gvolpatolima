@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://streak-stats.demolab.com">
     <img src=" https://streak-stats.demolab.com?user=gvolpatolima&theme=dark&hide_border=true" />
   </a>
  </p>
