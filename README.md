@@ -64,9 +64,14 @@
     </a>
 </p>
 
-<div align="center">
+<p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=gvolpatolima&theme=radical&hide_border=true">
+  </a>
+</p>
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=gvolpatolima&theme=radical&hide_border=true)](https://git.io/streak-stats)
- </div>
+
 
 
 <details>
